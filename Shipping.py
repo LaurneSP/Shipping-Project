@@ -20,6 +20,7 @@ $TotalCost = $ShippingCost + $CustomerBasketCost
 $TotalCost
 }
 
+
 customer_basket_cost = 101
 customer_basket_weight = 44
 
